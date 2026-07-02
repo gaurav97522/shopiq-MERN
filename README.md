@@ -1,16 +1,35 @@
-# React + Vite
+🛍️ Shopiq – MERN E-Commerce Platform
+📌 Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Shopiq is a modern and responsive E-Commerce web application built using the MERN Stack. It provides a seamless shopping experience with features like product browsing, category filtering, pagination, wishlist, shopping cart, and a clean, user-friendly interface.
 
-Currently, two official plugins are available:
+This project is being developed to demonstrate full-stack development skills and follows modern React development practices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+🚀 Features
+🛒 Browse Products
+❤️ Wishlist Functionality
+🛍️ Shopping Cart
+📂 Category-based Product Filtering
+📄 Pagination
+🔍 Product Search (Coming Soon)
+👤 User Authentication with JWT (Coming Soon)
+📦 Checkout Flow
+📍 Address Management
+💳 Payment Integration (Coming Soon)
+📱 Fully Responsive Design
+🎨 Modern Dark UI with Tailwind CSS
+🛠️ Tech Stack
+Frontend
+    React.js
+    React Router DOM
+    Context API
+    Tailwind CSS
+    Lucide React
+    JavaScript (ES6+)
+Backend (Upcoming)
+    Node.js
+    Express.js
+    MongoDB
+    Mongoose
+    JWT Authentication
+    Bcrypt
