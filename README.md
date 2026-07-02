@@ -1,5 +1,5 @@
 🛍️ Shopiq – MERN E-Commerce Platform
-📌 Overview
+
 
 Shopiq is a modern and responsive E-Commerce web application built using the MERN Stack. It provides a seamless shopping experience with features like product browsing, category filtering, pagination, wishlist, shopping cart, and a clean, user-friendly interface.
 
